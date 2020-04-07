@@ -1,0 +1,37 @@
+body{
+   margin: auto;
+   padding: auto;
+    }
+#carouselExampleCaptions{
+	
+}
+
+h5, p{
+	 /*color:#FFECB3;*/
+	 font-family: 'Mansalva', cursive;
+	 text-align: center;
+}
+img{
+	float: right;
+	/*border-radius: 30px;*/
+	border:5px #FFECB3;
+}
+#carouselExampleCaptions{
+	
+	height: 800px;
+
+}
+nav, #carouselExampleCaptions {
+	width: 800px;
+	margin: auto;
+	padding: auto;
+	font-family: 'Mansalva', cursive;
+	background-color: #FFECB3;
+	border-radius: 5px;
+	}
+
+footer{
+	text-align: center;
+
+	font-family: 'Mansalva', cursive;
+}
